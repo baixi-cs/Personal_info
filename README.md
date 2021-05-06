@@ -11,13 +11,13 @@
 :woman:💻 I was an undergraduate learning asistant for algorithms.
 
 # experience
-Undergraduate Learning Assistant in OSU Jun,2020-March,2021
+Undergraduate Learning Assistant in OSU                                    Jun,2020-March,2021
 
  ● Grading the discussions, HW assignments, and some questions of the midterm and final exams. 
  
  ● Checking Ed Discussions and Teams at least five times each week and spend at least three hours for debugging and responding to Q&A.
 
-International Ambassador of Admission Office
+International Ambassador of Admission Office                                Jan,2018-Jun,2019
 
  ● Serving as orientation leaders for incoming international students by connecting with new students during group time and leading the orientation.
  
