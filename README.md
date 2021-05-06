@@ -10,6 +10,8 @@
 
 :woman:💻 I was an undergraduate learning asistant for algorithms.
 
+
+
 # experience
 Undergraduate Learning Assistant in OSU                                    Jun,2020-March,2021
 
@@ -26,8 +28,11 @@ International Ambassador of Admission Office                                Jan,
  ● Acting as peer mentor for international students by having one-on-one conversations with students to support their success.
  
  ● Assisting with marketing and communication strategies for LBCC’s International Programs.
+ 
+ 
 
 # Project
+
 
 OSU-wide Transfer Guide generator for advisors and students     Sep，2020-
 
@@ -39,12 +44,14 @@ OSU-wide Transfer Guide generator for advisors and students     Sep，2020-
 
 
 
+
 Pokewiki                    March 2021
 
 ● developed a designed app with XML and database.
 
 ● Implemented an app with specific 3rd-party API.
  
+
 
 House Rental Suggestion: Python / Pybrain / MySQL / Scrapy.   Aug 2020
 
