@@ -29,6 +29,16 @@ International Ambassador of Admission Office
 
 # Project
 
+OSU-wide Transfer Guide generator for advisors and students     Sep，2020-
+
+● Developed a well-designed website with HTML, CSS, JavaScript, Vue and databases.
+
+● Implemented front end: UI design with great learnability and functionality.
+
+● Implemented back end: Accurate responses to the front end, and management of user data using databases.
+
+
+
 Pokewiki                    March 2021
 
 ● developed a designed app with XML and database.
