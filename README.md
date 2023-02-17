@@ -34,34 +34,34 @@ International Ambassador of Admission Office                                Jan,
 # Project
 Photo Sharing Application | AWS, Docker, RabbitMQ, Redis cache, JWT, Rate-limiting, Postman
 
-• Designed and deployed an Instagram-style app on AWS with Docker container for photo sharing using Node.js and Express
+● Designed and deployed an Instagram-style app on AWS with Docker container for photo sharing using Node.js and Express
 
-• Implemented a RabbitMQ consumer to rescale images according to the asynchronous messages
+● Implemented a RabbitMQ consumer to rescale images according to the asynchronous messages
 
-• Created a JWT-based user login system to facilitate the users' accessibility to the data and ratelimiting scheme to control the volume of traffic being processed by API servers
+● Created a JWT-based user login system to facilitate the users' accessibility to the data and ratelimiting scheme to control the volume of traffic being processed by API servers
 
-• Developed a Redis cache in MongoDB to synchronize data between clients and the servers
+● Developed a Redis cache in MongoDB to synchronize data between clients and the servers
 
-• Followed Agile development process and served as project owner to ensure consistent updates
+● Followed Agile development process and served as project owner to ensure consistent updates
 
 
 OSU-wide Transfer Guide generator for advisors and students | Html, CSS, Vue, Express, Nodejs, JavaScript, redux
 
-• Designed a user-friendly OSU domain web API for OSU Transfer Admissions Office (TAO) to help ease the work of OSU advisors
+● Designed a user-friendly OSU domain web API for OSU Transfer Admissions Office (TAO) to help ease the work of OSU advisors
 
-• Collaborated closely with TAO advisors to define the project roadmap, address problems
+● Collaborated closely with TAO advisors to define the project roadmap, address problems
 
-• Deployed and maintained the OOP full stack web API on OSU domain and implemented big data accessor to store, analyze and update 200+ transfer guides
+● Deployed and maintained the OOP full stack web API on OSU domain and implemented big data accessor to store, analyze and update 200+ transfer guides
 
-• Created a LaTex convert to PDF export transfer guides seamlessly to students
+● Created a LaTex convert to PDF export transfer guides seamlessly to students
 
 Custom Interactive Dashboards App | Big Query, Google Kubernetes, Cloud Storage, Load Balancer   
 
-• Built a custom interactive dashboard app on Google Cloud by using the Bokeh library to visualize data from publicly available Big Query datasets
+● Built a custom interactive dashboard app on Google Cloud by using the Bokeh library to visualize data from publicly available Big Query datasets
 
-• To facilitate horizontal scalability for the app, self-deployed application backend and Memcached service for caching frequently requested data with Docker containers using GKE
+● To facilitate horizontal scalability for the app, self-deployed application backend and Memcached service for caching frequently requested data with Docker containers using GKE
 
-• Used HTTPS Load Balancer to effectively distribute incoming web traffic to the appropriate backends and handle SSL decryption/encryption of data coming in and out of the system
+● Used HTTPS Load Balancer to effectively distribute incoming web traffic to the appropriate backends and handle SSL decryption/encryption of data coming in and out of the system
 
 
 Pokewiki |Android, SQLite, XML, API
