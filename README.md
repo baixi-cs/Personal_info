@@ -12,7 +12,7 @@
 
 
 
-# experience
+# xperience
 Undergraduate Learning Assistant in OSU                                    Jun,2020-March,2021
 
  ● Grading the discussions, HW assignments, and some questions of the midterm and final exams. 
