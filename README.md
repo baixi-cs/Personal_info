@@ -14,6 +14,7 @@
 
 # Experience
 Undergraduate Learning Assistant in OSU                                    Jun,2020-March,2021
+
  ● Grading the discussions, HW assignments, and some questions of the midterm and final exams. 
  
  ● Checking Ed Discussions and Teams at least five times each week and spend at least three hours for debugging and responding to Q&A.
